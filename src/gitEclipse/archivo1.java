@@ -10,4 +10,7 @@ public class archivo1 {
 	public void funcion2() {
 		System.out.println("Funcion 2");
 	}
+	public void funcion3() {
+		System.out.println("Funcion 3");
+	}
 }
