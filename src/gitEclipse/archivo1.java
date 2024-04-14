@@ -28,4 +28,7 @@ public class archivo1 {
 	public void funcion8() {
 		System.out.println("Funcion 8");
 	}
+	public void funcionConflicto() {
+		int a = 1;
+	}
 }
