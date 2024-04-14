@@ -1,9 +1,7 @@
 package gitEclipse;
 
-public class archivo1 {
+public class archivo3 {
 
-	int a;
-	
 	public void funcion1() {
 		System.out.println("Funcion 1");
 	}
