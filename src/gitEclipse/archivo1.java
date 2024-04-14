@@ -30,5 +30,6 @@ public class archivo1 {
 	}
 	public void funcionConflicto() {
 		int a = 2;
+		int b = 1;
 	}
 }
