@@ -25,4 +25,7 @@ public class archivo1 {
 	public void funcion7() {
 		System.out.println("Funcion 7");
 	}
+	public void funcion8() {
+		System.out.println("Funcion 8");
+	}
 }
